@@ -1,4 +1,4 @@
-Day 1: Data Types
+# Day 1: Data Types
 
 Objective
 
